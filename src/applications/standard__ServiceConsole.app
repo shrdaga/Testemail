@@ -179,7 +179,11 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
+    <tabs>Vehicle__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>Vehicle__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

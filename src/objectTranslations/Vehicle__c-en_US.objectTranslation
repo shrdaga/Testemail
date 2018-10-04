@@ -57,6 +57,10 @@
         <name>Bedrooms__c</name>
     </fields>
     <fields>
+        <label><!-- Check --></label>
+        <name>Check__c</name>
+    </fields>
+    <fields>
         <label><!-- Doors --></label>
         <name>Doors__c</name>
     </fields>

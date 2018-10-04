@@ -18,9 +18,13 @@
     <tabs>standard-Feed</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
+    <tabs>Vehicle__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningSalesConsole_UtilityBar</utilityBar>
     <workspaceConfig>
+        <mappings>
+            <tab>Vehicle__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>
